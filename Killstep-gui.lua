@@ -11,11 +11,11 @@ local CoreGui    = game:GetService("CoreGui")
 local lp         = Players.LocalPlayer
 
 local SKYBOX_1_TEX        = "rbxassetid://94659307806326"
-local SKYBOX_2_TEX        = "rbxassetid://110498650257572"
-local FACE_AND_PART_TEX   = "rbxassetid://117473920390660"
+local SKYBOX_2_TEX        = "rbxassetid://98094545589084"
+local FACE_AND_PART_TEX   = "rbxassetid://85875196148979"
 local DECAL_SPAM_1_TEX    = "rbxassetid://94659307806326"
 local DECAL_SPAM_2_TEX    = "rbxassetid://91410920198348"
-local JUMPSCARE_IMG       = "rbxassetid://117473920390660"
+local JUMPSCARE_IMG       = "rbxassetid://98094545589084"
 local JUMPSCARE_SOUND     = "rbxassetid://103215672097028"
 local SOUND_JUMPSTYLE     = "rbxassetid://1839246711"
 local SOUND_KILLSTEP      = "rbxassetid://117499298661785"
